@@ -1,0 +1,4 @@
+http://localhost/sg/rx.php;
+http://localhost/sg/mymap.php;
+http://localhost/sg/getdata.php;
+http://localhost/sg/getweather.php;

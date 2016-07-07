@@ -1,0 +1,4 @@
+http://lab411s.esy.es/sg/rx.php;
+http://lab411s.esy.es/sg/mymap.php;
+http://lab411s.esy.es/sg/getdata.php;
+http://lab411s.esy.es/sg/getweather.php;
